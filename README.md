@@ -1,6 +1,9 @@
 # CarND-Path-Planning-Project
-Self-Driving Car Engineer Nanodegree Program
+Self-Driving Car Engineer Nanodegree Program - Florian Wulff
    
+
+![image_sim](./figures/sim.png)
+
 ## Write up
 
 ### Goals
